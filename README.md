@@ -1,0 +1,2 @@
+# SAFETY_GUIDELINES.md
+GitHub README.md
